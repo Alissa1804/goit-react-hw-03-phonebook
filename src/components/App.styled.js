@@ -14,13 +14,14 @@ export const Container = styled.div`
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   font-family: 'Readex Pro', sans-serif;
   background: linear-gradient(0deg, #7c8584 2.86%, #121b28 100%);
+  background: linear-gradient(180deg, #aabed8, #121b28 100%);
   border-radius: 8px;
 `;
 
 export const Title = styled.h1`
   font-weight: 600;
   font-size: 42px;
-  color: #baa287;
+  color: #e7effa;
 `;
 export const MTitle = styled.h2`
   font-weight: 600;

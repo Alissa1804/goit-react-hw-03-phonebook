@@ -7,7 +7,7 @@ export const Item = styled.li`
   align-items: baseline;
   gap: 10px;
   color: #cebdab;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 20px;
   border-bottom: 1px solid #bdd4f1;
 `;

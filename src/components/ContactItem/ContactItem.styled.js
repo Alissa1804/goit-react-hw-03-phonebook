@@ -19,7 +19,8 @@ export const Button = styled.button`
 `;
 
 export const P = styled.p`
-  color: #121b28;
+  color: #bdd4f1;
+  font-weight: 200;
 `;
 
 export const PN = styled.p`
